@@ -1,1 +1,1 @@
-updated_array
+def using_push(array, string)
