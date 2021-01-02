@@ -1,1 +1,3 @@
-def colors_in_the_rainbow
+def using_push(array, string)
+  array.push(string)
+end 
